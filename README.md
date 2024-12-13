@@ -59,17 +59,10 @@ To analyze and visualize e-commerce data for identifying key performance indicat
 - Stacked bar chart for sales and profit ratio
 - Scatter plots for sales vs. profit
 
-## Future Enhancements
-- Integrate live data source using APIs.
-- Automate data pipeline with cloud services (e.g., Azure, AWS).
-- Add more advanced predictive analytics features.
-
 ## Contact
-For any questions or feedback, please reach out to:
-- **Email**: your_email@example.com
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
+- **LinkedIn**:https://www.linkedin.com/in/jtushar235
 
 ---
 
-**Author**: [Your Name]
+**Author**:Tushar Jadhav
 
